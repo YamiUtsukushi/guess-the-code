@@ -4,7 +4,7 @@ Un jeu de déduction de code secret, jouable directement dans le navigateur. Dev
 
 ## 🌐 Application déployée
 
-**🔗 [https://guess-the-code-by-jayson.netlify.app/](https://guess-the-code-by-jayson.netlify.app/)**
+**🔗 [guess-the-code-by-jayson.netlify.app](https://guess-the-code-by-jayson.netlify.app/)**
 
 <br>
 
