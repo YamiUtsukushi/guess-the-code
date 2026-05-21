@@ -4,9 +4,7 @@ Un jeu de déduction de code secret, jouable directement dans le navigateur. Dev
 
 ## 🌐 Application déployée
 
-**🔗 [https://precious-donut-bd0488.netlify.app](https://precious-donut-bd0488.netlify.app)**
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/production/deploy-status)](https://precious-donut-bd0488.netlify.app)
+**🔗 [guess-the-code-by-jayson.netlify.app](guess-the-code-by-jayson.netlify.app)**
 
 <br>
 
